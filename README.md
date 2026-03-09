@@ -1,4 +1,5 @@
 # Weather App 🌦️
+Live Demo: https://lavanya-bca-2024.github.io/weather-app/
 
 A simple weather application built using HTML, CSS and JavaScript.
 
